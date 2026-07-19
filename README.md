@@ -2,6 +2,10 @@
 
 A bilingual (Arabic/English) novel by Dr. Mohamed El Fadil, MD, narrating the human body as a republic of ~30 trillion citizens — cells that faithfully serve a whole they can never perceive or understand.
 
+## Status
+
+The Arabic edition (`جمهورية الخلايا — الطبعة الكاملة`) is structurally complete: ~148,000 words across ~1,378 printed A5 pages, covering all nine Movements, the Prologue and Closing, the three standalone chapters (the Liver, the Antibody, the Neutral Cell), the additional "New Chapters" (the Vaccine, the Microbiome, the lab-report chapter), the Arabic-only additions (the Mitochondrion, the Kidney, the Second Body), and the three Lost Books (Sleep, Dream, Death). Final production page numbers in the Table of Contents are pending a last pagination pass once content is frozen — see `docs/AUDIT-REPORT.md`.
+
 ## Contents
 
 - `THE-REPUBLIC-OF-CELLS-English-Complete-v2.pdf` — the English edition.
